@@ -14,7 +14,7 @@ clap = "2.33.0"
 log = "0.4.7"
 nix = "0.14.1"
 rand = "0.6.1"
-socket2 = "0.3.9"
+socket2 = "0.3.16"
 solana-logger = { path = "../logger", version = "0.18.0-pre0" }
 tokio = "0.1"
 
