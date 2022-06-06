@@ -73,7 +73,7 @@ solana-move-loader-program = { path = "../programs/move_loader_program", version
 solana-move-loader-api = { path = "../programs/move_loader_api", version = "0.18.0-pre0" }
 solana-librapay-api = { path = "../programs/librapay_api", version = "0.18.0-pre0" }
 sys-info = "0.5.7"
-tokio = "0.1"
+tokio = "1.8"
 tokio-codec = "0.1"
 untrusted = "0.7.0"
 
